@@ -46,7 +46,4 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 
 ![2](https://github.com/user-attachments/assets/f26f1e46-5980-4a49-a953-8b9eaa4dc1f0)
 
-## Working Code
 
-
-## Demo Video
