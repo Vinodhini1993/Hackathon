@@ -33,3 +33,10 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 |---------------|----------|---------------------------------------------------------------|
 | 1.            | D4       |  PD0*  |
 | 2.            | Rx       | Thingspeak(Cloud Connection) | 
+
+|  S.no         |GY-BME280-5V Temperature Sensor  | VSD Squadron Mini Board   |                                             
+|---------------|----------|---------------------------------------------------------------|
+| 1.            | VIN      | VDD |
+| 2.            | GND      | VSS |
+| 3.            | SCL      | PC2 |
+| 4.            | SDA      | PC1 |
