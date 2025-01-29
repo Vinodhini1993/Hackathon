@@ -40,3 +40,5 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 | 2.            | GND      | VSS |
 | 3.            | SCL      | PC2 |
 | 4.            | SDA      | PC1 |
+
+##  Pinout Diagram
