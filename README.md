@@ -10,8 +10,8 @@ People with disabilities benefit greatly from prosthetic legs, which enable them
 The aim of this system is to evaluate the adaptability of assistive devices, particularly prosthetic legs, to improve the comfort and functionality for the user. By providing real-time data access, this system enhances the accessibility and user experience of the prosthetic leg. It works in collaboration with an occupational therapist to increase the durability of the device and includes a pain monitoring system that tracks and assesses the discomfort caused by wearing the prosthetic leg. Through continuous real-time data monitoring and feedback, the system enables adaptive pain management, offering personalized adjustments to minimize discomfort. The collected data is analyzed and visualized, giving both the user and healthcare professionals valuable insights to ensure a more comfortable and effective prosthetic experience. This approach helps improve the overall quality of life for prosthetic leg users, addressing both physical and emotional needs.
 
 
+![3](https://github.com/user-attachments/assets/ef9da4e9-8324-4e73-9b76-424044960926)
 
-![1](https://github.com/user-attachments/assets/6a6c2179-4bc3-4dc3-9470-8903c866e163)
 
 ## Components required with Bill of Materials
 | Item                   | Quantity | Description                                                   | Links to Products                                      |
