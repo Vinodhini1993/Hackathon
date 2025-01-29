@@ -22,3 +22,8 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 | BME Sensor             | 1        | Sensor module for skin temperature                            | https://sulkurl.com/kR1                           |
 
 ## Table for Pin Connections
+
+|  S.no         | Muscle BioAmp Candy Sensor |   |VSD Squadron Mini Board  |                                              
+|---------------|----------|---------------------------------------------------------------|---------------------------------------------------|
+| 1.            |  VCC     |   VDD(5V) |
+| 2.            |  GND     |   VSS     |
