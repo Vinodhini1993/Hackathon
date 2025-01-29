@@ -12,3 +12,5 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 
 
 ![1](https://github.com/user-attachments/assets/6a6c2179-4bc3-4dc3-9470-8903c866e163)
+
+## Components required with Bill of Materials
