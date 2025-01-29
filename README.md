@@ -28,3 +28,8 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 | 1.            |  VCC     |   VDD(5V) |
 | 2.            |  GND     |   VSS     |
 | 3.            |  OUT     |   PA2     |
+
+|  S.no         | ESP8266(Wifi Module) | VSD Squadron Mini Board * and Cloud   |                                             
+|---------------|----------|---------------------------------------------------------------|
+| 1.            | D4       |  PD0*  |
+| 2.            | Rx       | Thingspeak(Cloud Connection) | 
