@@ -23,7 +23,7 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 
 ## Table for Pin Connections
 
-|  S.no         | Muscle BioAmp Candy Sensor |   |VSD Squadron Mini Board  |                                              
-|---------------|----------|---------------------------------------------------------------|---------------------------------------------------|
+|  S.no         | Muscle BioAmp Candy Sensor | VSD Squadron Mini Board   |                                             
+|---------------|----------|---------------------------------------------------------------|
 | 1.            |  VCC     |   VDD(5V) |
 | 2.            |  GND     |   VSS     |
