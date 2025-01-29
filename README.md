@@ -20,3 +20,5 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 | ESP8266(Wifi)          | 1        | Wifi Module                                                   |                                                   |
 | EMG Sensor             | 1        | Sensor module for muscle activity                             | https://sulkurl.com/kRZ                           |
 | BME Sensor             | 1        | Sensor module for skin temperature                            | https://sulkurl.com/kR1                           |
+
+## Table for Pin Connections
