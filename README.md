@@ -27,3 +27,4 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 |---------------|----------|---------------------------------------------------------------|
 | 1.            |  VCC     |   VDD(5V) |
 | 2.            |  GND     |   VSS     |
+| 3.            |  OUT     |   PA2     |
