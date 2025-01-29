@@ -14,3 +14,9 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 ![1](https://github.com/user-attachments/assets/6a6c2179-4bc3-4dc3-9470-8903c866e163)
 
 ## Components required with Bill of Materials
+| Item                   | Quantity | Description                                                   | Links to Products                                      |
+|------------------------|----------|---------------------------------------------------------------|---------------------------------------------------|
+| VSD Squadron Mini      | 1        | Microcontroller board                                         | https://sulkurl.com/kR9                           |
+| ESP8266(Wifi)          | 1        | Wifi Module                                                   |                                                   |
+| EMG Sensor             | 1        | Sensor module for muscle activity                             | https://sulkurl.com/kRZ                           |
+| BME Sensor             | 1        | Sensor module for skin temperature                            | https://sulkurl.com/kR1                           |
