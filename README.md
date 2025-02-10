@@ -202,5 +202,9 @@ float EMGFilter(float input)
   }
   return output;
 }
+```
+
+## Demo Video
+https://drive.google.com/file/d/1MX8_-SOmx8ajoxNuYKaFquLBDQpJgDpC/view?usp=sharing
 
 
