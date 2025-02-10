@@ -208,6 +208,7 @@ float EMGFilter(float input)
 https://drive.google.com/file/d/1MX8_-SOmx8ajoxNuYKaFquLBDQpJgDpC/view?usp=sharing
 
 ## Conclusion
+<p align="justify">
 This project presents a smart IoT-based assistive device designed to monitor pain indicators such as muscle tension and body temperature in real-time, enabling users to manage pain
 effectively and maintain greater independence. The prosthetic leg is equipped with a
 (silicone) liner to reduce friction and pressure, alleviating discomfort and pain from extended
