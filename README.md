@@ -222,9 +222,11 @@ float EMGFilter(float input)
 }
 ```
 
-## Demo Video
+## Demonstration Video of Arduino IDE
 
 https://drive.google.com/file/d/1MX8_-SOmx8ajoxNuYKaFquLBDQpJgDpC/view?usp=sharing
+
+## Demonstration Video of VSDSquadron Mini 
 
 https://drive.google.com/file/d/1flbyY-fuYytsHpno1tzOKj0mSjZX8Qn6/view?usp=sharing
 
