@@ -11,18 +11,21 @@ The aim of this system is to evaluate the adaptability of assistive devices, par
 
 ## Features and benefits of the product
 
-Real-time data monitoring and feedback.
+Real-time data monitoring and feedback
+
 Adaptive Pain Management for User
+
 Data Analysis and Visualization
 
 ## Advantage of the product
-To check the adaptability of the assistive device.
-Provide real-time data access and enhances accessibility.
-Increase durability of the assistive device with occupational therapist, providing a
-pain monitoring system about effect of pain caused by the prosthetic leg.
-The primary beneficiaries of this approach are locomotors differently abled or Person with
-Disability (PwD). People of all ages reduce their discomfort and improve the efficiency of
-prosthetic leg.
+
+To check the adaptability of the assistive device
+
+Provide real-time data access and enhances accessibility
+
+Increase durability of the assistive device with occupational therapist, providing a pain monitoring system about effect of pain caused by the prosthetic leg.
+
+The primary beneficiaries of this approach are locomotors differently abled or Person with Disability (PwD). People of all ages reduce their discomfort and improve the efficiency of prosthetic leg.
 
 
 ![3](https://github.com/user-attachments/assets/ef9da4e9-8324-4e73-9b76-424044960926)
