@@ -61,8 +61,9 @@ The primary beneficiaries of this approach are locomotors differently abled or P
 
 ##  Pinout Diagram
 
+![blockdiagram of VSD](https://github.com/user-attachments/assets/a8f8aa48-de20-41ad-bf2f-90b6f73f05ed)
 
-![2](https://github.com/user-attachments/assets/f26f1e46-5980-4a49-a953-8b9eaa4dc1f0)
+
 
 
 ## Source Code (Arduino IDE)
