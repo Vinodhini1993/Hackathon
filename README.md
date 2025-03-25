@@ -63,7 +63,9 @@ The primary beneficiaries of this approach are locomotors differently abled or P
 
 ![blockdiagram of VSD](https://github.com/user-attachments/assets/a8f8aa48-de20-41ad-bf2f-90b6f73f05ed)
 
+##  Flowchart Diagram
 
+![flow diagram drawio](https://github.com/user-attachments/assets/821f1445-953e-4db3-962f-126f21cbfe2a)
 
 
 ## Source Code (Arduino IDE)
