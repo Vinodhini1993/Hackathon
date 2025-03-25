@@ -41,12 +41,6 @@ The primary beneficiaries of this approach are locomotors differently abled or P
 
 ## Table for Pin Connections
 
-|  S.no         | Muscle BioAmp Candy Sensor | VSD Squadron Mini Board   |                                             
-|---------------|----------|---------------------------------------------------------------|
-| 1.            |  VCC     |   VDD(5V) |
-| 2.            |  GND     |   VSS     |
-| 3.            |  OUT     |   PA2     |
-
 |  S.no         | ESP8266(Wifi Module) | GY-BME280-5V Temperature Sensor | Muscle BioAmp Candy Sensor | VSD Squadron Mini Board |                                             
 |---------------|----------------------|---------------------------------|----------------------------|-------------------------|
 | 1.            | D1                   |  SCL                            |                            |                         |
