@@ -506,15 +506,9 @@ int main(void) {
 }
 ```
 
-
-
-## Demonstration Video of Arduino IDE
-
-https://drive.google.com/file/d/1MX8_-SOmx8ajoxNuYKaFquLBDQpJgDpC/view?usp=sharing
-
 ## Demonstration Video of VSDSquadron Mini 
 
-https://drive.google.com/file/d/1flbyY-fuYytsHpno1tzOKj0mSjZX8Qn6/view?usp=sharing
+https://drive.google.com/file/d/1K1zRJA4i_g5N0bZO7YeO3Wy7wo5NizyK/view?usp=sharing
 
 ## Conclusion
 <p align="justify">
