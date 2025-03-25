@@ -58,11 +58,11 @@ The primary beneficiaries of this approach are locomotors differently abled or P
 
 |  S.no         | VSD Squadron Mini Board   |      LCD Display        |        EMG          |    ESP8266(Wifi Module)       |                                        
 |---------------|---------------------------|-------------------------|---------------------|-------------------------------|
-| 1.            | PC1      | SDA |          |           |
-| 2.            | PC2      | SCL |          |           |
-| 3.            | VDD      | VCC | VCC      |           |
-| 4.            | GND      | GND | GND      |           |
-| 5.            | PD6(Rx)  |     |          | D4(Tx1)   |
+| 1.            | PC1                       | SDA                     |                     |                               |
+| 2.            | PC2                       | SCL                     |                     |                               |
+| 3.            | VDD                       | VCC                     | VCC                 |                               |
+| 4.            | GND                       | GND                     | GND                 |                               |
+| 5.            | PD6(Rx)                   |                         |                     | D4(Tx1)                       |
 
 ##  Pinout Diagram
 
