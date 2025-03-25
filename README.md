@@ -56,12 +56,13 @@ The primary beneficiaries of this approach are locomotors differently abled or P
 | 5.            | VV                   |  VDD                            |                            |                         |
 | 6.            | Gnd                  |  Gnd                            |                            |                         | 
 
-|  S.no         |GY-BME280-5V Temperature Sensor  | VSD Squadron Mini Board   |                                             
-|---------------|----------|---------------------------------------------------------------|
-| 1.            | VIN      | VDD |
-| 2.            | GND      | VSS |
-| 3.            | SCL      | PC2 |
-| 4.            | SDA      | PC1 |
+|  S.no         | VSD Squadron Mini Board   |      LCD Display        |        EMG          |    ESP8266(Wifi Module)       |                                        
+|---------------|---------------------------|-------------------------|---------------------|-------------------------------|
+| 1.            | PC1      | SDA |          |           |
+| 2.            | PC2      | SCL |          |           |
+| 3.            | VDD      | VCC | VCC      |           |
+| 4.            | GND      | GND | GND      |           |
+| 5.            | PD6(Rx)  |     |          | D4(Tx1)   |
 
 ##  Pinout Diagram
 
