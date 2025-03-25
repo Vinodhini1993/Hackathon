@@ -46,11 +46,14 @@ The primary beneficiaries of this approach are locomotors differently abled or P
 | 1.            |  VCC     |   VDD(5V) |
 | 2.            |  GND     |   VSS     |
 | 3.            |  OUT     |   PA2     |
-
-|  S.no         | ESP8266(Wifi Module) | VSD Squadron Mini Board * and Cloud   |                                             
-|---------------|----------|---------------------------------------------------------------|
-| 1.            | D4       |  PD0*  |
-| 2.            | Rx       | Thingspeak(Cloud Connection) | 
+## |  S.no         | ESP8266(Wifi Module) | GY-BME280-5V Temperature Sensor | Muscle BioAmp Candy Sensor | VSD Squadron Mini Board |                                             
+   |---------------|----------------------|---------------------------------|----------------------------|-------------------------|
+   | 1.            | D1                   |  SCL                            |                            |                         |
+   | 2.            | D2                   |  SDA                            |                            |                         |
+   | 3.            | A0                   |                                 |  OUT                       |                         |
+   | 4.            | D4(TX1)              |                                 |                            |  PD6(Rx)                |
+   | 5.            | VV                   |  VDD                            |                            |                         |
+   | 6.            | Gnd                  |  Gnd                            |                            |                         | 
 
 |  S.no         |GY-BME280-5V Temperature Sensor  | VSD Squadron Mini Board   |                                             
 |---------------|----------|---------------------------------------------------------------|
